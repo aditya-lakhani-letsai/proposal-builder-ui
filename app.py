@@ -7,7 +7,7 @@ import json
 import time
 from traceback import format_exc
 
-# ==== Logging Configuration ====
+# === Logging Configuration ===
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
 # === Upload file to server ===
